@@ -90,3 +90,5 @@ For business inquiries, licensing requests, or other questions, please contact t
 ---
 
 AURUM Game Hub — Your Browser, Your Games. 🎮
+AURUM Proprietary License v1.0
+
