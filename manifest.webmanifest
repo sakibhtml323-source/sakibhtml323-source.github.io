@@ -1,0 +1,16 @@
+{
+ "name": "AURUM Games",
+ "short_name": "AURUM",
+ "description": "Free browser games with 150+ levels each.",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#09080A",
+ "theme_color": "#09080A",
+ "icons": [
+  {"src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"},
+  {"src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+  {"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+ ]
+}
