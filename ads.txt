@@ -1,1 +1,1 @@
-# No advertising provider is configured. Add the lines your provider gives you to ads/ads.txt and rebuild.
+# No authorised-seller lines have been supplied. If your ad network dashboard lists ads.txt lines, put them in ads/ads.txt and rebuild.
